@@ -13,7 +13,7 @@ Created a RESTful API that can perform CRUD operation on a user data	from a pers
 ### Usage  
 * Run below command to start the application.
 
-`go run main.go `  
+    `go run main.go `  
 * Connect to the API using Postman or Thunderclient extension in VSCode on port 3800.
 ### API Endpoints  
 | HTTP Verbs | Endpoints | Action |  
