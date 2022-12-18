@@ -19,7 +19,7 @@ Created a RESTful API that can perform CRUD operation on a user data	from a pers
 | HTTP Verbs | Endpoints | Action |  
 | --- | --- | --- |  
 | GET | /user | To retrieve all existing users |  
-| POST | /user | To create a new user.|  
+| POST | /user | To create a new user |  
 | PUT | /user/:userId | To edit a existing user |  
 | GET | /user/:userId | To retrieve a particular user |  
 | DELETE | /user/:userId | To delete a single user |
